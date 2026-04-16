@@ -8,6 +8,8 @@
 # Site Settings
 title                    : "Cencen Liu (刘涔涔)"
 description              : "I am currently working toward the Ph.D. degree with the Laboratory of Intelligent Collaborative Computing, UESTC under the supervision of Prof. Guoming Lu."
+url                      : "https://liucencen54.github.io"
+baseurl                  : ""
 repository               : "liucencen54/liucencen54.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +39,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "liucencen54"
   google_plus      :
   keybase          :
   instagram        :
