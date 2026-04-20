@@ -27,7 +27,8 @@ I am currently working toward the Ph.D. degree with the Laboratory of Intelligen
 
 <div class='paper-box'>
 <div class='paper-box-image'>
-<div><div class="badge">CVPR 2026 Findings</div></div>
+  <img src='/images/alignvar-figure.png' alt='Core figure of AlignVAR: comparison between VARSR and AlignVAR for image super-resolution'>
+  <div class="badge">CVPR 2026 Findings</div>
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -40,7 +41,8 @@ I am currently working toward the Ph.D. degree with the Laboratory of Intelligen
 
 <div class='paper-box'>
 <div class='paper-box-image'>
-<div><div class="badge">Neurocomputing</div></div>
+  <img src='/images/srmambat-figure.svg' alt='Core figure of SRMamba-T: hybrid Mamba-Transformer pipeline for single image super-resolution'>
+  <div class="badge">Neurocomputing</div>
 </div>
 <div class='paper-box-text' markdown="1">
 
