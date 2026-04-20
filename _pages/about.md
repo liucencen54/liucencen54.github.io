@@ -21,7 +21,7 @@ I am currently working toward the Ph.D. degree with the Laboratory of Intelligen
 
 # 🔥 News
 - *2026.03*: &nbsp;🎉🎉 AlignVAR accepted to CVPR 2026 Findings.
-- *2025.01*: &nbsp;🎉🎉 One paper accepted to Neurocomputing.
+- *2025.01*: &nbsp;🎉🎉 SRMamba—T accepted to Neurocomputing.
 
 # 📝 Publications
 
