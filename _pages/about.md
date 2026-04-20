@@ -26,31 +26,35 @@ I am currently working toward the Ph.D. degree with the Laboratory of Intelligen
 # 📝 Publications
 
 <div class='paper-box'>
-<div class='paper-box-image'>
-  <img src='/images/alignvar-figure.png' alt='Core figure of AlignVAR: comparison between VARSR and AlignVAR for image super-resolution'>
-  <div class="badge">CVPR 2026 Findings</div>
-</div>
-<div class='paper-box-text' markdown="1">
+  <div class='paper-box-media'>
+    <div class='paper-box-image'>
+      <img src='/images/alignvar-figure.png' alt='Original figure from AlignVAR paper'>
+      <div class="badge">CVPR 2026 Findings</div>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 [AlignVAR: Towards Globally Consistent Visual Autoregression for Image Super-Resolution](https://arxiv.org/abs/2603.00589)
 
 **Cencen Liu**, Dongyang Zhang, Wen Yin, Jielei Wang, Tianyu Li, Ji Guo, Wenbo Jiang, Guoqing Wang, Guoming Lu
 
-</div>
+  </div>
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'>
-  <img src='/images/srmambat-figure.svg' alt='Core figure of SRMamba-T: hybrid Mamba-Transformer pipeline for single image super-resolution'>
-  <div class="badge">Neurocomputing</div>
-</div>
-<div class='paper-box-text' markdown="1">
+  <div class='paper-box-media'>
+    <div class='paper-box-image'>
+      <img src='/images/srmambat-figure.png' alt='Original figure from SRMamba-T paper'>
+      <div class="badge">Neurocomputing</div>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 [SRMamba-T: Exploring the Hybrid Mamba-Transformer Network for Single Image Super-Resolution](https://www.sciencedirect.com/science/article/abs/pii/S0925231225001602)
 
 **Cencen Liu**, Dongyang Zhang, Guoming Lu, Wen Yin, Jielei Wang, Guangchun Luo
 
-</div>
+  </div>
 </div>
 
 # 📖 Education
