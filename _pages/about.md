@@ -20,8 +20,8 @@ redirect_from:
 I am currently working toward the Ph.D. degree with the Laboratory of Intelligent Collaborative Computing, University of Electronic Science and Technology of China (UESTC) under the supervision of Prof. Guoming Lu. I received the M.E. degree from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2024. I obtained my B.S. degree in Software Engineering from Guizhou University, Guiyang, China, in 2021. My research interests focus on low-level vision, particularly image super-resolution and all-in-one image restoration. I study visual autoregressive modeling, degradation-aware representations, and efficient restoration models, including lightweight network design and knowledge distillation.
 
 # 🔥 News
-- *2026*: &nbsp;🎉🎉 [DAR-Net](https://arxiv.org/abs/2607.28526) accepted to ACM MM 2026.
-- *2026.03*: &nbsp;🎉🎉 AlignVAR accepted to CVPR 2026 Findings.
+- *2026.07*: &nbsp;🎉🎉 DAR-Net accepted to ACM MM 2026.
+- *2026.03*: &nbsp;🎉🎉 AlignVAR accepted to CVPR Findings 2026.
 - *2025.01*: &nbsp;🎉🎉 SRMamba—T accepted to Neurocomputing.
 
 # 📝 Publications
@@ -48,7 +48,7 @@ I am currently working toward the Ph.D. degree with the Laboratory of Intelligen
   <div class='paper-box-media'>
     <div class='paper-box-image'>
       <img src='/images/alignvar-figure.png' alt='Original figure from AlignVAR paper'>
-      <div class="badge">CVPR 2026 Findings</div>
+      <div class="badge">CVPR Findings 2026</div>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
