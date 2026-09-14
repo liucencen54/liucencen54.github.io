@@ -17,13 +17,32 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently working toward the Ph.D. degree with the Laboratory of Intelligent Collaborative Computing, University of Electronic Science and Technology of China (UESTC) under the supervision of Prof. Guoming Lu. I received the M.E. degree from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2024. I obtained my B.S. degree in Software Engineering from Guizhou University, Guiyang, China, in 2021. My research interests focus on computer vision and model compression, especially lightweight deep image restoration such as super-resolution.
+I am currently working toward the Ph.D. degree with the Laboratory of Intelligent Collaborative Computing, University of Electronic Science and Technology of China (UESTC) under the supervision of Prof. Guoming Lu. I received the M.E. degree from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2024. I obtained my B.S. degree in Software Engineering from Guizhou University, Guiyang, China, in 2021. My research interests focus on low-level vision, particularly image super-resolution and all-in-one image restoration. I study visual autoregressive modeling, degradation-aware representations, and efficient restoration models, including lightweight network design and knowledge distillation.
 
 # 🔥 News
+- *2026*: &nbsp;🎉🎉 [DAR-Net](https://arxiv.org/abs/2607.28526) accepted to ACM MM 2026.
 - *2026.03*: &nbsp;🎉🎉 AlignVAR accepted to CVPR 2026 Findings.
 - *2025.01*: &nbsp;🎉🎉 SRMamba—T accepted to Neurocomputing.
 
 # 📝 Publications
+
+<div class='paper-box'>
+  <div class='paper-box-media'>
+    <div class='paper-box-image'>
+      <img src='/images/dar-net-figure.png' alt='Original framework figure from the DAR-Net paper'>
+      <div class="badge">ACM MM 2026</div>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[What to Remove, What to Preserve: Dual-Ambiguity Rectification for All-in-One Image Restoration](https://arxiv.org/abs/2607.28526)
+
+**Cencen Liu**, Wen Yin, Dongyang Zhang, Dongmin Li, Shan Zhao, Bing Su, Tao He, Jielei Wang, Guoming Lu
+
+[arXiv](https://arxiv.org/abs/2607.28526) · [DOI](https://doi.org/10.1145/3767308.3835300)
+
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-media'>
@@ -56,6 +75,8 @@ I am currently working toward the Ph.D. degree with the Laboratory of Intelligen
 
   </div>
 </div>
+
+<span class='anchor' id='education'></span>
 
 # 📖 Education
 - *2024.09 - 2028.06 (now)*, Laboratory of Intelligent Collaborative Computing, University of Electronic Science and Technology of China (UESTC).
